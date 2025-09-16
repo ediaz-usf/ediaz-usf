@@ -20,7 +20,7 @@ Here you’ll find projects in Python, SQL, Tableau, dbt, and more — showing m
   SQL project for LuxurStay Hotels analyzing room service performance.  
   Identified underperforming branches and optimized response times.
 
-- **[Retail Sales Dashboard and Trend Analysis]**
+- **[Retail Sales Dashboard and Trend Analysis]**  
   Analyzed over 7,000 rows of retail sales data.
   Designed and deployed an interactive Tableau dashboard.
 
