@@ -89,7 +89,13 @@ Built an interactive dashboard with KPIs and seasonal trend analysis.
 
 ## 📄 Resume
 <p align="center">
+  <!-- Download button -->
   <a href="https://github.com/ediaz-usf/ediaz-usf/blob/main/Ernesto%20Diaz%20-%20Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Download Resume"/>
   </a>
+  <!-- View button -->
+  <a href="https://github.com/ediaz-usf/ediaz-usf/blob/main/Ernesto%20Diaz%20-%20Resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Resume"/>
+  </a>
 </p>
+
