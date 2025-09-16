@@ -63,8 +63,8 @@ Built an interactive dashboard with KPIs and seasonal trend analysis.
 ---
 
 ## 🏅 Certifications
-- DataCamp **SQL Associate**  
-- DataCamp **Data Analyst Associate**
+- [DataCamp **SQL Associate**](https://www.datacamp.com/certificate/SQA0013450642070)  
+- [DataCamp **Data Analyst Associate**](https://www.datacamp.com/certificate/DAA0018262168433)
 
 ---
 
