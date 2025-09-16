@@ -86,3 +86,10 @@ Built an interactive dashboard with KPIs and seasonal trend analysis.
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
+
+## 📄 Resume
+<p align="center">
+  <a href="https://github.com/ediaz-usf/ediaz-usf/blob/main/Ernesto%20Diaz%20-%20Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
