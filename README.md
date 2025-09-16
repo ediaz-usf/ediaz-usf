@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 Analytical and detail-oriented **Business Analytics student** with hands-on experience in **Python, SQL, Tableau, and Power BI**.  
 Skilled at organizing and interpreting large datasets, building data-driven solutions, and turning insights into strategy.  
-Currently studying at the **University of South Florida** and preparing for my **Study Abroad in Florence (Summer 2025)**.  
+Currently studying at the **University of South Florida**.
 
 ---
 
