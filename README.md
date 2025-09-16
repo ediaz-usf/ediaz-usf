@@ -10,6 +10,16 @@ Analytical and detail-oriented **Business Analytics student** with hands-on expe
 Skilled at organizing and interpreting large datasets, building data-driven solutions, and turning insights into strategy.  
 Currently studying at the **University of South Florida**.
 
+<p align="center">
+  <a href="https://github.com/ediaz-usf/ediaz-usf/blob/main/Ernesto%20Diaz%20-%20Resume.pdf" download>
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-0A66C2?style=flat-square&logo=readme&logoColor=white" alt="Download Resume"/>
+  </a>
+  <a href="https://github.com/ediaz-usf/ediaz-usf/blob/main/Ernesto%20Diaz%20-%20Resume.pdf">
+    <img src="https://img.shields.io/badge/🌐%20View%20Resume-34A853?style=flat-square&logo=google-chrome&logoColor=white" alt="View Resume"/>
+  </a>
+</p>
+
+
 ---
 
 ## 📊 Featured Projects
